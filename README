@@ -23,3 +23,4 @@ Test Runners:
 * Use our ANT task 'testRepor' build.xml to run the test suit
 
 	and get a JUnit report of test suite results
+
